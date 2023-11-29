@@ -3,11 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9420d9d4504aa77a3a59c28f1a914e36",
+  "assets/AssetManifest.json": "063660c8f5653a24f9f9c7d69045dff5",
 "assets/assets/avatar-Advance.svg": "5d7e95da63350f295d4f6949a69db4c0",
 "assets/assets/avatar-Newcomer.svg": "a446f5c1c0ed242395adc75ebe85ccb6",
 "assets/assets/avatar-Novice.svg": "b9b538dbee8b1379be025786216ed88a",
 "assets/assets/avatar-Professor.svg": "ea99d64dd3d08b69db7c47d2bebae2dc",
+"assets/assets/Box_State-notReady.png": "d5c2967e3d93bca575f0825c8484a5b6",
+"assets/assets/Box_State-ready.png": "e3c65fc3ffe69de51ba640818d294922",
+"assets/assets/Box_State-ReadybutEmpty.png": "b56aaa850750afb059b892a8b534c857",
 "assets/assets/card-BacktoBasic.svg": "bb2add700965ac8267e49af5c448231a",
 "assets/assets/card-Empty.svg": "92b4cb2077e9049cecd4f8a1bcfe0e82",
 "assets/assets/card-LevelUp.svg": "6905ef76aafc22a7c60c604422f08cd3",
@@ -31,15 +34,16 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"favicon.ico": "bfbe543e37c383fb0f66841757594c0a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4f657c3259b71f64a24ece2c57e8c0da",
-"/": "4f657c3259b71f64a24ece2c57e8c0da",
-"main.dart.js": "1f044e950b3af37201bf911f8580bb51",
+"index.html": "1b76d0ed155b28fc6f96fe03ba56aa58",
+"/": "1b76d0ed155b28fc6f96fe03ba56aa58",
+"main.dart.js": "e85745f40765101303fcef90a82d13bd",
 "manifest.json": "1f117e995a3e5c6548c9dc7c7daf43c9",
 "version.json": "89defd335aafe2c091212ce95e899669"
 };
