@@ -92502,16 +92502,18 @@ A.aBc.prototype={
 $0(){++this.a.d},
 $S:0}
 A.iV.prototype={
-J(a){var s,r,q,p,o,n,m=null,l=$.a1,k=(l==null?$.a1=$.aV():l).aN(0,"[DEFAULT]")
-A.aD(k,$.bY(),!0)
-l=A.et(new A.aO(k))
-l=l.gdv(l).a
-for(s=this.c,r=t.z,q=m,p=0;p<8;++p){o=B.jL[p]
+J(a){var s,r,q,p,o,n,m,l=null,k=$.a1,j=(k==null?$.a1=$.aV():k).aN(0,"[DEFAULT]")
+A.aD(j,$.bY(),!0)
+k=A.et(new A.aO(j))
+k=k.gdv(k).a
+for(s=this.c,r=t.z,q=l,p=0;p<8;++p){o=B.jL[p]
 n=o.a
-if(s===n)q=A.am(["name",n,"desc",o.c,"imgUrl",o.e,"constrain",o.d],r,r)}s=a.P(t.w).f
+if(s===n)q=A.am(["name",n,"desc",o.c,"imgUrl",o.e,"constrain",o.d],r,r)}s=t.w
+m=a.P(s).f.a.a
+s=m<500?m-72:a.P(s).f.a.a*0.4
 r=A.bP(16)
 o=t.p
-return A.hd(m,B.A,A.cA(A.aH(m,A.tf(A.a([A.ci(A.a([A.i_(m,m,B.Ja,m,new A.ao_(this,l.c.a.a,a),m,m)],o),B.r,B.cv,B.n),B.f7,A.cA(A.aS("Selamat,\nAnda mendapatkan Badge",m,m,m,m,$.MW(),B.av,m),m,m),B.aD,A.cA(A.aH(m,A.aOE(A.e(q.h(0,"imgUrl")),m),B.i,m,m,m,m,120,B.aW,m,m,m,120),m,m),A.cA(A.aS(A.e(q.h(0,"name")),m,m,m,m,B.Xa,m,m),m,m),A.cA(A.aS("anda telah "+A.e(q.h(0,"desc"))+" sebanyak "+A.e(q.h(0,"constrain"))+" kali",m,m,m,m,m,m,m),m,m),B.aD],o),B.N,!0),B.i,m,m,new A.bf(B.k,m,m,r,m,m,B.u),m,m,m,B.HZ,m,m,s.a.a*0.4),m,m),m,m)}}
+return A.hd(l,B.A,A.cA(A.aH(l,A.tf(A.a([A.ci(A.a([A.i_(l,l,B.Ja,l,new A.ao_(this,k.c.a.a,a),l,l)],o),B.r,B.cv,B.n),B.f7,A.cA(A.aS("Selamat,\nAnda mendapatkan Badge",l,l,l,l,$.MW(),B.av,l),l,l),B.aD,A.cA(A.aH(l,A.aOE(A.e(q.h(0,"imgUrl")),l),B.i,l,l,l,l,120,B.aW,l,l,l,120),l,l),A.cA(A.aS(A.e(q.h(0,"name")),l,l,l,l,B.Xa,l,l),l,l),A.cA(A.aS("anda telah "+A.e(q.h(0,"desc"))+" sebanyak "+A.e(q.h(0,"constrain"))+" kali",l,l,l,l,l,l,l),l,l),B.aD],o),B.N,!0),B.i,l,l,new A.bf(B.k,l,l,r,l,l,B.u),l,l,l,B.HZ,l,l,s),l,l),l,l)}}
 A.ao_.prototype={
 $0(){var s,r,q=$.a1,p=(q==null?$.a1=$.aV():q).aN(0,"[DEFAULT]")
 A.aD(p,$.bY(),!0)
